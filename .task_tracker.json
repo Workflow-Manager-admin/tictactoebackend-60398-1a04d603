@@ -1,0 +1,5 @@
+{
+  "task_description": "{'description': 'A tic-tac-toe game application backend.', 'containers': [{'container_name': 'tic_tac_toe_backend', 'platform': 'backend', 'framework': 'fastapi', 'description': 'Handles all backend logic and APIs for the tic-tac-toe game.', 'interfaces': 'RESTful APIs for game moves, fetching game state, and player management', 'workspace': 'tic_tac_toe_backend_workspace', 'container_root': 'tic_tac_toe_backend_workspace/tic_tac_toe_backend', 'dependencies': [], 'container_type': 'backend', 'container_details': 'Provides endpoints to create games, submit moves, return game state, and reset games.'}], '3rd_party_services': [], 'figma_components': '', 'manifest_path': '/home/kavia/workspace/code-generation/.project_manifest.yaml'}",
+  "tasks": {},
+  "next_task_id": 1
+}
